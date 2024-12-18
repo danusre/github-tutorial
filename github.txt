@@ -1,1 +1,3 @@
 github tutorial
+git is an version controller
+github is an back bone of git
